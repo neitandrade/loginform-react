@@ -1,2 +1,2 @@
 # loginform-react
-Formulário Login with React.js
+Formulário Login with React.js (BLUR / Falta responsividade)
